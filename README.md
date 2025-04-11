@@ -36,16 +36,6 @@ Automation over repetition.
 Simple is better than complex.
 ```
 
-## Github Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=szupzj18&show_icons=false&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888&icon_color=ffffff" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=szupzj18&hide_border=true" />
-</p>
-
 ## Connect
 
 <p align="center">
