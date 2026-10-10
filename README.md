@@ -1,7 +1,7 @@
 CHRIS PAN 👋
 ===========
 
-Software Engineer exploring AI systems and agents.
+Software Engineer interested in AI infra and agents.
 Currently building small, sharp tools around coding agents — session memory, multi-account, simulator control.
 
 ---------------
@@ -16,7 +16,7 @@ Skills & Tools
 
 » Languages:    Python, TypeScript, Swift, Kotlin, Rust, Go, Shell
 » Mobile:       iOS (SwiftUI), Android (Kotlin), Kotlin Multiplatform
-» AI / Agents:  Claude Code, Codex, MCP, RAG, multi-agent CLIs
+» AI / Agents:  Claude Code, Codex, MCP, agent tooling
 » Dev Tools:    Git, Docker, Homebrew, Raycast, idb
 
 -----------------
