@@ -40,14 +40,6 @@ Featured Projects
   ✦ Stack: Python, idb
   ✦ Links: https://github.com/szupzj18/flick
 
-● multi-agent-chat
-  ✦ Group-chat CLI for talking to multiple AI models at once. Concurrent streaming, @model targeting, /verify cross-validation.
-  ✦ Stack: Python
-
-● notebook-open
-  ✦ Local NotebookLM clone — AI-first note and research assistant with RAG and multi-provider LLM support.
-  ✦ Stack: TypeScript
-
 --------------------------
 Always learning 🧠
 
