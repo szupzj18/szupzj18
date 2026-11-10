@@ -27,7 +27,6 @@ Currently Building 🛠
 
 ● Zorua
   ✦ Run several Codex and Claude Code accounts side by side — one per terminal. Each account keeps its own sign-in, sessions, settings and quota.
-  ✦ Stack: TypeScript, zsh / bash / fish
   ✦ Links: https://szupzj18.github.io/zorua/
 
 -----------------
@@ -35,17 +34,14 @@ Featured Projects
 
 ● Persona
   ✦ Private AI assistant on iPhone / Watch that runs the coding agents on all your computers.
-  ✦ Stack: Swift, Go, Kotlin, TypeScript
   ✦ Links: https://github.com/nwverse/persona
 
 ● Mnemo
   ✦ One memory for all your coding agents. Full-text search across local Claude Code, Codex, OpenCode and Pi sessions, plus remote devboxes.
-  ✦ Stack: Python, zero dependencies
   ✦ Links: https://github.com/szupzj18/mnemo
 
 ● flick ⚡
   ✦ Fast iOS simulator agent with a dynamic, indexed action space. A sub-second reflex layer for parent coding agents driving mobile UIs — 593 ms per decision cycle, no screenshots in the loop.
-  ✦ Stack: Python, idb
   ✦ Links: https://github.com/szupzj18/flick
 
 --------------------------
